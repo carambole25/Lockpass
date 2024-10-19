@@ -11,4 +11,5 @@ Commandes : exit / add / print / remove
 -----
 
 ## To do
+- password is hardcoded
 - application crash when a user enter a false password
